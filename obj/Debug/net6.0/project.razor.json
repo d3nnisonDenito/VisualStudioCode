@@ -12,6 +12,105 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": 421077194,
+        "Kind": "Components.Component",
+        "Name": "VisualStudioCode.Pages.ToDo",
+        "AssemblyName": "VisualStudioCode",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ToDo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VisualStudioCode.Pages.ToDo"
+        }
+      },
+      {
+        "HashCode": 1382538623,
+        "Kind": "Components.Component",
+        "Name": "VisualStudioCode.Pages.ToDo",
+        "AssemblyName": "VisualStudioCode",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "VisualStudioCode.Pages.ToDo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VisualStudioCode.Pages.ToDo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1429380084,
+        "Kind": "Components.Component",
+        "Name": "VisualStudioCode.Pages.Index",
+        "AssemblyName": "VisualStudioCode",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VisualStudioCode.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -266744329,
+        "Kind": "Components.Component",
+        "Name": "VisualStudioCode.Pages.Index",
+        "AssemblyName": "VisualStudioCode",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "VisualStudioCode.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VisualStudioCode.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -400293847,
+        "Kind": "Components.Component",
+        "Name": "VisualStudioCode.Pages.FetchData",
+        "AssemblyName": "VisualStudioCode",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VisualStudioCode.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": -342738264,
+        "Kind": "Components.Component",
+        "Name": "VisualStudioCode.Pages.FetchData",
+        "AssemblyName": "VisualStudioCode",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "VisualStudioCode.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VisualStudioCode.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -476802188,
         "Kind": "Components.Component",
         "Name": "VisualStudioCode.Pages.Counter",
@@ -65,72 +164,6 @@
         }
       },
       {
-        "HashCode": -400293847,
-        "Kind": "Components.Component",
-        "Name": "VisualStudioCode.Pages.FetchData",
-        "AssemblyName": "VisualStudioCode",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "VisualStudioCode.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -342738264,
-        "Kind": "Components.Component",
-        "Name": "VisualStudioCode.Pages.FetchData",
-        "AssemblyName": "VisualStudioCode",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "VisualStudioCode.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "VisualStudioCode.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 421077194,
-        "Kind": "Components.Component",
-        "Name": "VisualStudioCode.Pages.ToDo",
-        "AssemblyName": "VisualStudioCode",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ToDo"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "VisualStudioCode.Pages.ToDo"
-        }
-      },
-      {
-        "HashCode": 1382538623,
-        "Kind": "Components.Component",
-        "Name": "VisualStudioCode.Pages.ToDo",
-        "AssemblyName": "VisualStudioCode",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "VisualStudioCode.Pages.ToDo"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "VisualStudioCode.Pages.ToDo",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1870622276,
         "Kind": "Components.Component",
         "Name": "VisualStudioCode.Pages.Impressum",
@@ -160,39 +193,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "VisualStudioCode.Pages.Impressum",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1429380084,
-        "Kind": "Components.Component",
-        "Name": "VisualStudioCode.Pages.Index",
-        "AssemblyName": "VisualStudioCode",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "VisualStudioCode.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -266744329,
-        "Kind": "Components.Component",
-        "Name": "VisualStudioCode.Pages.Index",
-        "AssemblyName": "VisualStudioCode",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "VisualStudioCode.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "VisualStudioCode.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -246,39 +246,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "VisualStudioCode.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -25306843,
-        "Kind": "Components.Component",
-        "Name": "VisualStudioCode.Shared.NavMenu",
-        "AssemblyName": "VisualStudioCode",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "VisualStudioCode.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": 1982591264,
-        "Kind": "Components.Component",
-        "Name": "VisualStudioCode.Shared.NavMenu",
-        "AssemblyName": "VisualStudioCode",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "VisualStudioCode.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "VisualStudioCode.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -375,6 +342,39 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "VisualStudioCode.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -25306843,
+        "Kind": "Components.Component",
+        "Name": "VisualStudioCode.Shared.NavMenu",
+        "AssemblyName": "VisualStudioCode",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VisualStudioCode.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": 1982591264,
+        "Kind": "Components.Component",
+        "Name": "VisualStudioCode.Shared.NavMenu",
+        "AssemblyName": "VisualStudioCode",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "VisualStudioCode.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VisualStudioCode.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
