@@ -7,12 +7,41 @@
 
 <p>We have all these delicious recipes:</p>
 
+<table>
+ <thead>
+  <tr>
+   <th>Food Name</th>
+   <th>Description</th>
+   <th>Price</th>
+  </tr>
+ </thead>
+ <tbody>
+  @foreach (var pizza in todaysFood)
+  {
+   <tr>
+    <td>@pizza.Name</td>
+    <td>@pizza.Description</td>
+    <td>@pizza.Price</td>
+   </tr>
+  }
+ </tbody>
+</table>
+
 @code {
 
-  private Food[] todaysFood;
+  private Data.Food[] todaysFood = new Data.Food[0];
 
   protected override async Task OnInitializedAsync()
   {
     todaysFood = await FoodSvc.GetFoodAsync();
   }
+}
+
+@if (todaysFood == null)
+{
+    <p>We're finding out what food is available today...</p>
+}
+else
+{
+    <!-- This markup will be rendered once the pizzas are loaded -->
 }

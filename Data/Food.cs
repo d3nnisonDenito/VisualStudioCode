@@ -16,14 +16,14 @@ public class FoodService
 {
   public Task<Food[]> GetFoodAsync()
   {
-    var listOfFood = new Food[10];
-    for (int i = 0; i < 10; i++)
-    {
-      listOfFood[i] = new Food();
-      listOfFood[i].Name = "TestFood " + i;
-      listOfFood[i].Price = i + 10;
-    }
-
-    return Task.FromResult(listOfFood);
+      var listOfFood = new Food[10];
+      for (int i = 0; i < 10; i++)
+      {
+        listOfFood[i] = new Food();
+        listOfFood[i].Name = "TestFood " + i;
+        listOfFood[i].Price = i + 10;
+      }
+       ;
+      return Task.FromResult(listOfFood);
   }
 }
